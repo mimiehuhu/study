@@ -1,0 +1,20 @@
+monsters (letters): 
+===============================
+Gelatinous Cube: G
+Kobold: K
+Onyx_Wyrm: O
+Skeleton: S
+
+treasures (shapes): 
+===============================
+Gold Bag: black circle
+Gem: red circle
+Chalice: yellow circle
+Health Potion: blue circle 
+
+Textures (colored lines):
+===============================
+texture1: black line
+texture2: green line
+texture3: magenta line
+texture4: blue line
